@@ -42,8 +42,9 @@ Creating the dashboard was fairly a straightforward process, the UI provides a c
 However, I was a little confused at first about the date picking part, so I created an extra field in the table where I extracted the year from the
 timestamp, so I could filter them by year - as the task description suggested it - but then I found the appropriate tool among the filter options.
 
-![First task dashboard](/assets/Brickz db 1.1.png "First task dashboard")
-
+<p>
+    <img src="/assets/Brickz db 1.1.png" />
+</p>
 ### Task 2
 
     • Gyűjtsd ki a nem archivált, 3 hónapja új kommentel nem rendelkező channel-
@@ -95,12 +96,15 @@ segments for better visibility.
 
 Line chart:
 <br/>
-![Second task dashboard I.](/assets/Brickz db 2.1.png "Second task dashboard I.")
-
+<p>
+    <img src="/assets/Brickz db 2.1.png" />
+</p>
 Table view:
 <br/>
-![Second task dashboard II.](/assets/Brickz db 2.2.png "Second task dashboard II.")
 
+<p>
+    <img src="/assets/Brickz db 2.2.png" />
+</p>
 ### Summary of Completed Tasks
 
 #### May 25th, 2023
