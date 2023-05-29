@@ -38,7 +38,7 @@ I started to create a new chart on the messages table:
 
 #### Dashboard creation
 
-Creating the dashboard was fairly a straightforward process, the UI provides a clean and easily understandable platform to create filters.
+Creating the dashboard was a fairly straightforward process, the UI provides a clean and easily understandable platform to create filters.
 However, I was a little confused at first about the date picking part, so I created an extra field in the table where I extracted the year from the
 timestamp, so I could filter them by year - as the task description suggested it - but then I found the appropriate tool among the filter options.
 
